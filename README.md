@@ -17,11 +17,11 @@ To use the Weather Web App locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Gibrail404/Weather-App.git
+   git clone https://github.com/parvezgazi/Weather-App.git
 
 
 ## Demo
-You can view a live demo of the Weather-App click [here](https://gibrail404.github.io/Weather-App/).
+You can view a live demo of the Weather-App click [here](https://parvezgazi.github.io/Weather-App/).
 
 
 ## License
@@ -36,4 +36,4 @@ Special thanks to the developers and communities behind the technologies used in
 
 If you have any questions or suggestions, feel free to reach out:
 
-Email: gibrailzaidi@gmail.com
+Email: parvezgazi490@gmail.com
